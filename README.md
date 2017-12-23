@@ -1,4 +1,4 @@
-# Cornell Data Science Training Program (JunyoungLim.github.io)
+# Cornell Data Science Training Program
 ## INFO 1998: An Introduction to Data Science and Machine Learning
 
 Instructors:
